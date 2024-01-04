@@ -1,0 +1,32 @@
+.field-label {
+  font-weight: bold;
+}
+
+.field-input {
+  background-color: #f0f0f0; 
+}
+.modalz {
+  display: none;
+}
+
+.footer-custom {
+  background-color: black;
+  color: #fff;
+  padding: 20px 0;
+}
+
+.navbar-custom {
+  background-color: black;
+  height: 100px;
+  font-size: 25px;
+}
+
+.navbar-custom .navbar-brand,
+.navbar-custom .navbar-nav .nav-link {
+  color: #fff !important;
+  font-size: 25px;
+}
+
+.navbar-custom .navbar-toggler-icon {
+  background-color: #fff;
+}
